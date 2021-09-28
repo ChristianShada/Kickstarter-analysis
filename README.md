@@ -1,8 +1,5 @@
 # Kickstarter-analysis
-Performing analysis on Kickstarter data to uncover trends
+## Overview of the Project
+#### While we worked on this project it became clear that this was an imersive lesson to ensure that we knew the basics of a more advanced world of Excel. This would boost our own skill levels higher to be able to better understand the more complex and more in-depth lessons ahead. The data provided offered breathtaking information to which we were able to leverage our own skills and, while integrating scaffolding learning, we were able to build upon what we had learned as we went through the module. It was important for us to also utilize many different resources including our classmates, TA's, tutors, and a little Google-Fu!
 
-[Outcomes Based on Launch Date](https://github.com/ChristianShada/Kickstarter-analysis/blob/main/Outcomes%20Based%20on%20Launch%20Date.png)
 
-[Parent Category Outcomes](https://github.com/ChristianShada/Kickstarter-analysis/blob/main/Parent%20Category%20Outcomes.png)
-
-Upon looking at this report. It is important to identify what are the main takeaways. Looking at both the links above, my findings are that your most successful campaign was theater was your most successful campaign and you should begin the campain in the mid-late spring for the highest ROI for your budget and time.

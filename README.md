@@ -6,4 +6,8 @@
 #### Analysis
 &emsp;&emsp;&emsp;&emsp;&emsp;While this seems like it would be a simple task, identifying lines and lines of data would take nearly a month to identify trends and patterns. With the ability to look at these through different lenses based on excel rules/arguments, I was able to easily identify my conclusion with more confidence through utilizing the graphic displays. 
 #### Challenges
-&emsp;&emsp;&emsp;&emsp;&emsp;One of the largest challenges that I had going into it was the =countifs in Excel. It took me quite the while to understand those.
+&emsp;&emsp;&emsp;&emsp;&emsp;One of the largest challenges that I had going into it was the countifs fucntion in Excel. It took me quite the while to understand the concept. My biggest resource was checking in with my peers and closely after was the aforementioned Google-Fu and YouTube. This helped me understand the logic behind what I needed to be looking for. When I finally got it I threw my hands in the air and I had to tell my wife about it. Teaching it to her really solidified the idea. Another challenge for me was listneing to others get ahead whilst still working on this Module. I like to be ahead of the game. I pride myself on it. After stepping away from the computer for a little bit, I was able to realize that we all go at different paces and that there is a great support system in place for me and I can acess that at any time.
+## Results
+### Two conclusions are made about the Theater Outcomes by Launch Date
+### One conclusion is mad about the Outcomes base on Goals
+### There is a summary of the limitations of the dataset, and there is a recommnedation for additional tables or graphs.
